@@ -1,0 +1,16 @@
+{
+  "type": "Venom Bears",
+  "name": "Venom Bears",
+  "description": "Venom Bears is the first collection on the Venom Blockchain.",
+  "preview": {
+    "source": "https://raw.githubusercontent.com/pasichnuk/venombears/main/Venom.png",
+    "mimetype": "image/png"
+  },
+  "files": [
+    {
+      "source": "https://raw.githubusercontent.com/pasichnuk/venombears/main/Venom.png",
+      "mimetype": "image/png"
+    }
+  ],
+  "external_url": "https://bears-nft.netlify.app/"
+}
